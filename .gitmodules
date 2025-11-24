@@ -1,3 +1,0 @@
-[submodule "blog/themes/cactus"]
-	path = blog/themes/cactus
-	url = git@github.com:gyunnnn/hexo-theme-cactus.git
